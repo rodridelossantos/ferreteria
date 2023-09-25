@@ -1,0 +1,10 @@
+body {
+  background-image: url(https://www.ipaymentsuite.com/assets/img/ipaysuitewallpaper.jpg);
+}
+
+.nombre {
+  color: white;
+  display: flex;
+  place-content: center;
+  place-items: center;
+}
