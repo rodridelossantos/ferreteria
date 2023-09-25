@@ -2,9 +2,12 @@ body {
   background-image: url(https://www.ipaymentsuite.com/assets/img/ipaysuitewallpaper.jpg);
 }
 
-.nombre {
-  height: 200px;
-  color: white;
+.main {
+  height: 90vh;
   display: flex;
   place-content: center;
+  place-items: center;
+}
+.nombre {
+  color: white;
 }
